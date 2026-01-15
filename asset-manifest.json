@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Ramil453/human-design/static/css/main.cd9a6378.css",
-    "main.js": "/Ramil453/human-design/static/js/main.69a53156.js",
-    "static/js/453.ed3810f9.chunk.js": "/Ramil453/human-design/static/js/453.ed3810f9.chunk.js",
-    "static/media/Layer_2.png": "/Ramil453/human-design/static/media/Layer_2.6870814274b838192d8e.png",
-    "static/media/Layer_22.png": "/Ramil453/human-design/static/media/Layer_22.b30bad553e379bc39f3a.png",
-    "static/media/Group 223.png": "/Ramil453/human-design/static/media/Group 223.b6207bf6dde7a54aa8f1.png",
-    "static/media/Layer_1.png": "/Ramil453/human-design/static/media/Layer_1.84606682b21b318d1dd2.png",
-    "index.html": "/Ramil453/human-design/index.html",
-    "main.cd9a6378.css.map": "/Ramil453/human-design/static/css/main.cd9a6378.css.map",
-    "main.69a53156.js.map": "/Ramil453/human-design/static/js/main.69a53156.js.map",
-    "453.ed3810f9.chunk.js.map": "/Ramil453/human-design/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/human-design/static/css/main.a236900b.css",
+    "main.js": "/human-design/static/js/main.0c3c2089.js",
+    "static/js/453.ed3810f9.chunk.js": "/human-design/static/js/453.ed3810f9.chunk.js",
+    "static/media/Layer_2.png": "/human-design/static/media/Layer_2.6870814274b838192d8e.png",
+    "static/media/Layer_22.png": "/human-design/static/media/Layer_22.b30bad553e379bc39f3a.png",
+    "static/media/Group 223.png": "/human-design/static/media/Group 223.b6207bf6dde7a54aa8f1.png",
+    "static/media/Layer_1.png": "/human-design/static/media/Layer_1.84606682b21b318d1dd2.png",
+    "index.html": "/human-design/index.html",
+    "main.a236900b.css.map": "/human-design/static/css/main.a236900b.css.map",
+    "main.0c3c2089.js.map": "/human-design/static/js/main.0c3c2089.js.map",
+    "453.ed3810f9.chunk.js.map": "/human-design/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd9a6378.css",
-    "static/js/main.69a53156.js"
+    "static/css/main.a236900b.css",
+    "static/js/main.0c3c2089.js"
   ]
 }
