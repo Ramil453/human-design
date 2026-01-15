@@ -18,7 +18,7 @@
 		"react-simple-image-slider": "^2.4.1",
 		"web-vitals": "^2.1.4"
 	},
-	"homepage": "https://github.com/Ramil453/human-design",
+	"homepage": "https://Ramil453.github.io/human-design",
 	"scripts": {
 		"start": "react-scripts start",
 		"build": "react-scripts build",
