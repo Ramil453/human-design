@@ -1,0 +1,45 @@
+.current-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: end;
+}
+
+.current-info {
+  display: flex;
+  justify-content: center;
+  gap: 11px;
+  margin-bottom: 31px;
+}
+
+.current-info-card {
+  background-image: linear-gradient(#3D5A73, #001330);
+  padding: 4px 12px;
+  border-radius: 9px;
+  color: #fff;
+  font-size: 14px;
+}
+
+.slider {
+  display: flex;
+  gap: 17px;
+  margin-bottom: 30px;
+}
+
+.blue-line {
+  width: 50%;
+  height: 4px;
+  background-color: #3D5A73;
+  border-radius: 4px;
+}
+
+.grey-line {
+  width: 50%;
+  height: 4px;
+  background-color: #3d5a732c;
+  border-radius: 4px;
+}
+
+.current-right-column {
+  display: flex;
+  justify-content: end;
+}

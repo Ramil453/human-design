@@ -1,0 +1,158 @@
+.background-header-img {
+  background-image: url('../../public/images/Group 223.png');
+	width: 100%;
+	height: 31vh;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.scroll-wrapper {
+  overflow-x: auto;
+  white-space: nowrap;
+  scrollbar-width: none;
+}
+
+.list {
+  margin-bottom: 34px;
+  display: flex;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+li {
+  list-style: none;
+  width: 115px;
+  height: 29px;
+  background: #fff;
+  border-radius: 8px;
+  border: 1px solid #3D5A73;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.highlight-btn {
+  background-color: #3d5a73;
+	color: #fff;
+}
+
+.color-blue {
+  color: #3D5A73;
+}
+
+.information-block {
+  padding-bottom: 100px;
+}
+
+.information-box {
+  background: #F9F9F9;
+  overflow: hidden;
+  border-radius: 10px;
+  padding: 15px 16px 13px 8px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.centres-main {
+  padding-bottom: 100px;
+}
+
+.information-title {
+  color: #3D5A73;
+  font-size: 19px;
+  font-weight: 700;
+  margin-bottom: 7px;
+}
+
+.information-description {
+  width: 226px;
+  font-size: 12px;
+  font-weight: 400;
+  color: #2A2A2A;
+}
+
+.additional-information-description,
+.additional-information-description2, 
+.additional-information-description3, 
+.additional-information-description4,
+.additional-information-description5,
+.additional-information-description6,
+.additional-information-description7,
+.additional-information-description8,
+.additional-information-description9,
+.additional-information-description10,
+.additional-information-description11,
+.additional-information-description12,
+.additional-information-description13,
+.additional-information-description14,
+.additional-information-description15, 
+.additional-information-description16,
+.additional-information-description17, 
+.additional-information-description18, 
+.additional-information-description19,
+.additional-information-description20,
+.additional-information-description21,
+.additional-information-description22,
+.additional-information-description23,
+.additional-information-description24,
+.additional-information-description25,
+.additional-information-description26,
+.additional-information-description27,
+.additional-information-description28,
+.additional-information-description29,
+.additional-information-description30, 
+.additional-information-description31,
+.additional-information-description32,
+.additional-information-description33, 
+.additional-information-description34, 
+.additional-information-description35,
+.additional-information-description36,
+.additional-information-description37,
+.additional-information-description38,
+.additional-information-description39,
+.additional-information-description40,
+.additional-information-description41,
+.additional-information-description42,
+.additional-information-description43,
+.additional-information-description44,
+.additional-information-description45,
+.additional-information-description46, 
+.additional-information-description47,
+.additional-information-description48, 
+.additional-information-description49, 
+.additional-information-description50,
+.additional-information-description51,
+.additional-information-description52,
+.additional-information-description53,
+.additional-information-description54,
+.additional-information-description55,
+.additional-information-description56,
+.additional-information-description57,
+.additional-information-description58,
+.additional-information-description59,
+.additional-information-description60,
+.additional-information-description61, 
+.additional-information-description62,
+.additional-information-description63 {
+  display: none;
+}
+
+.information-text {
+  float: left;
+}
+
+.arrow-top {
+  display: none;
+}
+
+.generate-wrapper {
+  padding-top: 5px;
+}

@@ -1,0 +1,50 @@
+.padding-top-35 {
+  padding-top: 35px;
+}
+
+.settings-menu {
+  background-color: #F8F7FA;
+  padding: 18px 0 8px 15px;
+  border-radius: 9px;
+}
+
+.settings-menu-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 24px;
+  font-size: 13px;
+  font-weight: 400;
+  color: #2A2A2A;
+}
+
+.premium-button {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 62px;
+}
+
+.btn-wrapper {
+  width: 239px;
+  height: 37px;
+  background-color: #3D5A73;
+  border: none;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 9px;
+}
+
+.premium-btn {
+  border: none;
+  background-color: transparent;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.settings-footer-img {
+  display: flex;
+  justify-content: center;
+}

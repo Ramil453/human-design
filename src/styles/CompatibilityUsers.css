@@ -1,0 +1,25 @@
+.compatibility-users-description {
+	margin-bottom: 20px;
+}
+
+.compatibility-users-description:nth-last-child(1) {
+	margin-bottom: 100px;
+}
+
+.compatibility-footer-img {
+  display: flex;
+  justify-content: center;
+  /* margin-top: -100px; */
+  position: absolute;
+
+}
+
+.compatibility-users-img {
+	width: 682px;
+	height: 839px;
+}
+
+.compatibility-users-footer {
+  /* position: absolute;
+  bottom: 0; */
+}
